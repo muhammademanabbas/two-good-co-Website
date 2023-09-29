@@ -103,7 +103,7 @@ document.addEventListener("mousemove"  , function  (dets)  {
                 bacgroundColor  :  "#fff"
             })
             gsap.to(nav,  {
-                backgroundColor  : "#F7F7F7" , 
+                backgroundColor  : "transparent" , 
               },"same")
               gsap.to(navPart1,  {
                   color:"#000"
